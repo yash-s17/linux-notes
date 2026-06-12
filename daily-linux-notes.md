@@ -21,3 +21,38 @@ id -u
 meaning : shows only uid
 example : id -u       , then you will see your uid
 
+
+
+
+
+
+Day - 2
+
+
+pwd
+meaning : print working directory , show's your current working directory
+
+cd
+meaning : change directory , helps to move between directory
+
+touch
+meaning : creates a new empty file
+
+mkdir
+meaning : creates a new folder
+
+ls
+meaning : shows files and folders in the current directory
+
+cp
+meaning : copy files or folders
+
+mv
+meaning : move / rename , help to rename a file
+
+rm
+meaning : help to remove a file
+
+rmdir
+meaning : remove directory , remove a folder
+
