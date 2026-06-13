@@ -56,3 +56,29 @@ meaning : help to remove a file
 rmdir
 meaning : remove directory , remove a folder
 
+
+
+
+
+
+Day - 3 
+
+
+cat
+meaning : concatenate and display file contents , display the content of the file on the terminal
+
+cat -n
+meaning : shows file content along with line numbers
+
+head
+meaning : shows begning of a file , display the first 10 lines by default
+
+tail
+meaning : shows end of a file , display the last 10 lines by default
+
+diff
+meaning : compare two files , shows difference between two files
+
+diff -r
+meaning : compare directories recursively , compare two directories and all files/subdirectories inside them
+
