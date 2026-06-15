@@ -97,3 +97,22 @@ chown
 meaning : chown is used to change the owner of a file or directory
 
 
+
+
+
+
+Day - 5
+
+
+useradd
+meaning : use to create a new user account
+
+userdel
+meaning : use to delete a user account
+
+passwd
+meaning : use to set or change password
+
+usermod
+meaning : use to change properties of an exisiting user
+
