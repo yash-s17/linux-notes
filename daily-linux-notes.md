@@ -82,3 +82,18 @@ meaning : compare two files , shows difference between two files
 diff -r
 meaning : compare directories recursively , compare two directories and all files/subdirectories inside them
 
+
+
+
+
+
+Day - 4
+
+
+chmod
+meaning : chmod is used to change the permission of file and directories
+
+chown
+meaning : chown is used to change the owner of a file or directory
+
+
