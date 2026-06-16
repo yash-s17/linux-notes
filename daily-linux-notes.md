@@ -116,3 +116,28 @@ meaning : use to set or change password
 usermod
 meaning : use to change properties of an exisiting user
 
+
+
+
+
+
+Day - 6
+
+ls -l
+meaning : list files and directories
+
+ls -a 
+meaning : show hidden files ( file starting with (.) )
+
+ls -la 
+meaning : long listing and hidden files
+
+ls -lh 
+meaning : human-readable file size
+
+ls -lah
+meaning : long listed and hidden files and human-readable size
+
+
+
+
