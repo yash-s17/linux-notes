@@ -158,3 +158,23 @@ meaning : shows user currently logged into system
 top
 meaning : shows running procces and system resource usage in realtime
 
+
+
+
+
+
+Day - 8
+
+
+tar
+meaning : used to combine many files into one archive
+
+grep
+meaning : it is used to search a word or pattern in a file
+
+dmesg
+meaning : it shows messages from the linux kernel , such as hardware detection , drivers , USB devices , and boot information 
+
+diff 
+meaning : it compares two files annd show the difference
+
