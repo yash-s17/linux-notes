@@ -178,3 +178,21 @@ meaning : it shows messages from the linux kernel , such as hardware detection ,
 diff 
 meaning : it compares two files annd show the difference
 
+
+
+
+
+
+Day - 9
+
+
+passwd
+meaning : change the user's password
+
+df -h 
+meaning : display disk space usage
+
+free -h
+meaning : display memory usage
+
+
