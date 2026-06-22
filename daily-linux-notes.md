@@ -196,3 +196,21 @@ free -h
 meaning : display memory usage
 
 
+
+
+
+
+Day - 10
+
+
+find
+meaning : Searches for files and directories in real time.
+
+locate
+meaning : Quickly searches for files by name using a database.
+
+whereis
+meaning : Finds the location of a command's binary, source code, and manual page.
+
+which
+meaning : Shows the exact executable file that will run when you type a command
